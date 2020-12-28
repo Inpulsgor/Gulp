@@ -38,13 +38,13 @@ sudo apt-get install gcc g++ make
 Для быстрого старта необходимо склонировать репозиторий.
 
 ```shell
-git clone https://github.com/Inpulsgor/bundlers/gulp.git
+git clone https://github.com/Inpulsgor/Gulp.git
 ```
 
 Переименовать папку сборки по имени вашего проекта.
 
 ```shell
-mv gulp-starter-kit имя_проекта
+mv Gulp имя_проекта
 ```
 
 Затем перейти в папку проекта.
